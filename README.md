@@ -1,2 +1,3 @@
 # hello-world
 Hello World repo for caReady
+Learning to code is hard to do without community so here I go!  I hope to learn, learn, learn...
